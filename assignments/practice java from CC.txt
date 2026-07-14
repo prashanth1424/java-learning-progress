@@ -7,4 +7,5 @@
 7.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS07
 8.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS08
 9.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS09
-10https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS010
+10.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS10?tab=statement
+
